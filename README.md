@@ -92,4 +92,3 @@ streamlit run app.py
 - **LinkedIn** : [Nazifou AFOLABI](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
 
 Projet pédagogique et analytique sur les données ouvertes liées aux véhicules électriques.
-
