@@ -31,7 +31,9 @@ Electric-vehicles-Market-Size-Analysis/
 
 Une application interactive développée avec **Streamlit** pour explorer, analyser et visualiser les données sur les véhicules électriques immatriculés dans l'État de Washington (USA). Ce projet a pour objectif d'assister les décideurs, analystes et passionnés d'énergie verte dans l’exploration du marché actuel des véhicules électriques (VE).
 
-[Application url](https://nazif96-electric-vehicles-market-size-analysis--app-qlrsye.streamlit.app/)
+Cliquez sur :
+
+ ▶️ [Application](https://nazif96-electric-vehicles-market-size-analysis--app-qlrsye.streamlit.app/)
 ---
 
 ## 📊 Fonctionnalités principales
@@ -62,6 +64,33 @@ Une application interactive développée avec **Streamlit** pour explorer, analy
 - Colonnes clés : `Make`, `Model`, `Model Year`, `Electric Range`, `Base MSRP`, `Vehicle Type`, `Location`, etc.
 
 ---
+
+- **Compétences mobilisées :**
+
+    - Visualisation de données : Plotly, Seaborn
+
+    - Manipulation de données : Pandas
+
+    - Développement d’application : Streamlit, Python
+
+    - Reporting dynamique : Génération de rapports PDF personnalisés
+
+    - UX & Interactivité : Filtres dynamiques, tableaux interactifs
+
+- **Fonctionnalités clés :**
+
+    - Filtres multi-critères (année, marque, modèle, type)
+
+    - Indicateurs clés du marché (nombre de véhicules, marques, modèles)
+
+    - Visualisations interactives : boxplots, barplots, histogrammes
+
+    - Génération de rapports PDF incluant graphiques et données filtrées
+    
+
+Objectif métier : Fournir un outil d'aide à la décision pour accompagner l’adoption des véhicules électriques à travers une meilleure compréhension des tendances locales.
+
+--- 
 
 ## ⚙️ Installation
 
