@@ -86,7 +86,7 @@ Cliquez sur :
     - Visualisations interactives : boxplots, barplots, histogrammes
 
     - Génération de rapports PDF incluant graphiques et données filtrées
-    
+
 
 Objectif métier : Fournir un outil d'aide à la décision pour accompagner l’adoption des véhicules électriques à travers une meilleure compréhension des tendances locales.
 
@@ -97,6 +97,7 @@ Objectif métier : Fournir un outil d'aide à la décision pour accompagner l’
 ### Prérequis
 - Python 3.8+
 - pip
+- clonez le dépôt en local 
 
 ### Installation des dépendances
 
@@ -105,7 +106,7 @@ pip install -r requirements.txt
 
 ``` 
 
-# 🚀 Lancement de l’application
+### 🚀 Lancement de l’application en local 
 
 ```bash
 streamlit run app.py
@@ -114,9 +115,9 @@ streamlit run app.py
 
 ## 👨‍💻 Auteur
 
-**AFOLABI Nazifou**
+**AFOLABI Nazifou** 
 
-- **Datascientist | Machine Learning & Modeling** 
+- **Data scientist | Machine Learning & Modeling** 
 - Passionné par les sciences de données et l'intelligence artificielle.
 - **Email** : [afolabinazif96@gmail.com](mailto.afolabinazif96@gmail.com)
 - **LinkedIn** : [Nazifou AFOLABI](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
